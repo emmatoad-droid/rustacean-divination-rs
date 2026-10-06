@@ -1,0 +1,10 @@
+# Rust build output
+/target/
+
+# Editor / local noise
+.vscode/
+.idea/
+.DS_Store
+
+# Backup files
+*.rs.bk
